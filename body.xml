@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <applicable_countries>['AT', 'CN']</applicable_countries>
+        <effective_at>2026-01-21</effective_at>
+        <excluding_countries>[{'country_code': 'AU', 'description': 'Australia'}, {'country_code': 'US', 'description': 'United States of America'}]</excluding_countries>
+        <hs_code>100120012</hs_code>
+        <lc_vats>[]</lc_vats>
+    </row>
+    <row>
+        <applicable_countries>['IN', 'LU', 'MT']</applicable_countries>
+        <effective_at>2026-01-21</effective_at>
+        <excluding_countries>[{'country_code': 'AU', 'description': 'Australia'}, {'country_code': 'US', 'description': 'United States of America'}]</excluding_countries>
+        <hs_code>450023234</hs_code>
+        <lc_vats>[{'duty': '23 %', 'duty_name': 'Values Added Tax', 'lc_calculation_formula': '{1} &gt;= 12', 'lc_duty': [{'type': 'AD_VALOREM', 'value': 23.0}]}]</lc_vats>
+    </row>
+</rows>
